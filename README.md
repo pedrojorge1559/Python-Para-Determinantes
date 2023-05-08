@@ -1,0 +1,2 @@
+# Python-Para-Determinantes
+Projeto
